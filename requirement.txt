@@ -1,0 +1,6 @@
+Xampp Control Panel
+Vs Code
+php
+Html 
+Css 
+Javascript
